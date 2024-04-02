@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README would normally document whatever kerbs is doing, but because he's so busy, please be patient with him and madame jean.
 
 Things you may want to cover:
 
@@ -25,7 +24,7 @@ Things you may want to cover:
 
 gems
 
-devise
+devise- admin & user
 
 iex-ruby-client
 
